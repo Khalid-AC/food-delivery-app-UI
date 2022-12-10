@@ -1,16 +1,10 @@
-# food_delivery_ui
+# About
 
-A new Flutter project.
+Front-End of Food delivery app using **Flutter**. 
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## App Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "app_overview/3.jpg" height = "500">  <img src = "app_overview/5.jpg" height = "500"> <img src="app_overview/4.jpg" height = "500"> <img src = "app_overview/2.jpg" height= "500"> <img src = "app_overview/1.jpg" height ="500"> 
